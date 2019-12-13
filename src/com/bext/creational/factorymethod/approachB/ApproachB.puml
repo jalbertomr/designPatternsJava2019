@@ -1,0 +1,44 @@
+@startuml
+
+
+package "Shape To Create" <<Rectangle>>{
+interface Shape{
++ draw(): void
+}
+
+abstract class AbstractShape {
+- color
+- size
++setterGetters()
+}
+
+class Circle {
++setterGetters()
++ draw(): void
+}
+class Rectangle {
++setterGetters()
++ draw(): void
+}
+class Square {
++setterGetters()
++ draw(): void
+}
+
+Shape <|..AbstractShape
+AbstractShape <|-- Circle
+AbstractShape <|-- Rectangle
+AbstractShape <|-- Square
+
+}
+class ShapeFactory{
++ factoryMethod
+}
+
+class FactoryMethodAppDemo{
++ main()
+}
+
+FactoryMethodAppDemo -->ShapeFactory:uses
+ShapeFactory-right->"Shape To Create":create
+@enduml

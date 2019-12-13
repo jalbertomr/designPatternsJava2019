@@ -1,0 +1,21 @@
+@startuml
+
+class Director{
+builder: Builder
+construct()
+}
+note left :this.builder.buildPart();
+interface Builder{
+buildPart()
+}
+class ConcreteBuilder{
+buildPart()
+getResult(): Product
+}
+
+class Product
+
+Director o-right- Builder
+Builder <|-- ConcreteBuilder
+ConcreteBuilder ..> Product:<<create>>
+@enduml

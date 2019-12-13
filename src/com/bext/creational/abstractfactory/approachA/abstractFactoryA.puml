@@ -1,0 +1,51 @@
+@startuml
+
+class AbstractFactoryPatternDemo{
++ main(): void
+}
+class FactoryProducer{
++ createFactory: AbstractFactory
+}
+
+
+package "Shape To Create" <<Rectangle>>{
+interface Shape {
++ draw(): void
+}
+class Rectangle {
++ draw(): void
+}
+class Square {
++ draw(): void
+}
+class RoundRectangle {
++ draw(): void
+}
+class RoundSquare {
++ draw(): void
+}
+
+Shape <|-- Rectangle
+Shape <|-- Square
+Shape <|-- RoundRectangle
+Shape <|-- RoundSquare
+}
+
+class AbstractFactory {
++ createShape(): Shape
+}
+class ShapeFactory{
++ createShape():Shape
+}
+class RoundedShapeFactory{
++ createShape():Shape
+}
+AbstractFactory <|-- ShapeFactory
+AbstractFactory <|-- RoundedShapeFactory
+
+ShapeFactory -down-> Shape:create
+RoundedShapeFactory -down-> Shape:create
+
+AbstractFactoryPatternDemo -right-> FactoryProducer:use
+FactoryProducer -right-> AbstractFactory:use
+@enduml

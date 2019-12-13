@@ -1,0 +1,29 @@
+@startuml
+
+class Computer {
+   HDD
+   RAM
+   boolean withMonitor
+   boolean withWifi
+   +getHDD()
+   +getRAM()
+   +isWithMonitor()
+   +isWithWifi()
+   -Computer( ComputerBuilder builder)
+}
+
+class ComputerBuilder{
+   HDD
+   RAM
+   boolean withMonitor
+   boolean withWifi
+   +ComputerBuilder(HDD, RAM)
+   +setWithMonitor( boolean ): this
+   +setWithWifi( boolean): this
+   +build(): Computer
+}
+
+Computer <.. ComputerBuilder:creates
+Computer +-- ComputerBuilder
+ComputerBuilder <.. Computer:uses
+@enduml

@@ -1,0 +1,18 @@
+@startuml
+
+":Director" --> "builder\n:Builder1":build\npartA()
+activate "builder\n:Builder1"
+"builder\n:Builder1" --> ProductA1:new ProductA1
+"builder\n:Builder1" --> "Complex\nObject":assemble
+activate "Complex\nObject"
+deactivate "Complex\nObject"
+deactivate "builder\n:Builder1"
+":Director" --> "builder\n:Builder1":build\npartB()
+activate "builder\n:Builder1"
+"builder\n:Builder1" --> ProductB1:new ProductB1
+"builder\n:Builder1" --> "Complex\nObject":assemble
+activate "Complex\nObject"
+deactivate "Complex\nObject"
+deactivate "builder\n:Builder1"
+
+@enduml
