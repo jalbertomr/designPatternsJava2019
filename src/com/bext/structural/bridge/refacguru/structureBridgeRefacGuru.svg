@@ -1,0 +1,206 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='22 50 687 448' xmlns:xlink='http://www.w3.org/1999/xlink' width='687.0px' font-size='13' font-family='Arial, LiberationSans' version='1.1' height='448.0px'>
+  <defs>
+<style type='text/css'><![CDATA[svg text {text-rendering: geometricPrecision;}]]></style>    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='0d4d0d90-06ff-48b9-8208-3d8ff4e6644c' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='87c1e7' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(243, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(135, 193, 231)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='6eb6c8a4-432b-48aa-9d9f-98f06a9d1113' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(243, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(135, 193, 231)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='944460de-a2a6-4188-ab07-3ddf87981951' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(243, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(135, 193, 231)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='f5a5aa80-0251-4379-aaae-78f7d469ba62' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='8e949bbf-e749-4254-b8a2-e99dd2c9a799' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='1daa5ef6-2c69-4754-875b-408879ac3bb9' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='62445eab-a2a1-40c9-8fab-3619d7198a2b' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(243, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(135, 193, 231)'/>
+    </linearGradient>
+  </defs>
+  <desc>ClassDiagram</desc>
+  <g transform='translate(247.0,80.0)' id='_mzqy8QPrEDimd_hRbi24EA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='60.0px' y='0.0' stroke-width='1.0' fill='url(#0d4d0d90-06ff-48b9-8208-3d8ff4e6644c)' stroke='rgb(187, 187, 187)' look='allInOne' height='80.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='30.0' y='19.0' font-size='13' font-style='normal' fill='rgb(3, 54, 86)'>Client</text>
+    <line y1='26.0' x1='0.0' y2='26.0' x2='60.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(204.0,210.0)' id='_u81ScQPrEDimd_hRbi24EA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='145.0px' y='0.0' stroke-width='1.0' fill='url(#6eb6c8a4-432b-48aa-9d9f-98f06a9d1113)' stroke='rgb(81, 116, 139)' look='allInOne' height='92.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='72.5' y='19.0' font-size='13' font-style='normal' fill='rgb(41, 58, 70)'>Abstraction</text>
+    <line y1='26.0' x1='0.0' y2='26.0' x2='145.0' stroke-width='1.0' stroke='rgb(81, 116, 139)' look='border'/>
+    <g transform='translate(0.0,26.0)' id='_TzZacgQAEDimd_hRbi24EA'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP////3+/ypvqCtuqCtvqDF0qzp5rzp4rjp5rkN/skOAsk2Ftk2GtlWMulaMulaNulaMuV6Svl6RvV6SvV+SvWWWwGWXwGqawvr9//b8//L7/+T3/+H3/+T4/+z6/+36/+P4/+f5//L8//b9/7ONIu/Aaf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIu2A3AAAAAodFJOU////////////////////////////////////////////////////wC+qi4YAAAAjUlEQVR42lyPuwoCQQxFT8bsNgpWIrYy4P//zkwpWmmxIFjMI1vMjqumO1xuciIXfsf9Mcr0jXuU+lj5AEo+JkwwgSGDUrbPXcunMYGjvBO1jnWsJgWUqsZgeSh3XgSUsinLWi/Ri2L5lBxcPx52cwaCB/OYcm5JkHa7qwciRIjaJZfG+pwggqyV3mAeAEwDNXVo/ukaAAAAAElFTkSuQmCC' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' fill='rgb(41, 58, 70)'>imp: Implementation</text>
+    </g>
+    <line y1='47.0' x1='0.0' y2='47.0' x2='145.0' stroke-width='1.0' stroke='rgb(81, 116, 139)' look='border'/>
+    <g transform='translate(0.0,47.0)' id='_pokuEAPsEDimd_hRbi24EA'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>feature1()</text>
+    </g>
+    <g transform='translate(0.0,67.0)' id='_q5b5AQPsEDimd_hRbi24EA'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>feature2()</text>
+    </g>
+  </g>
+  <g transform='translate(497.0,210.0)' id='_xUkl4gPrEDimd_hRbi24EA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='112.0px' y='0.0' stroke-width='1.0' fill='url(#944460de-a2a6-4188-ab07-3ddf87981951)' stroke='rgb(81, 116, 139)' look='allInOne' height='106.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='56.0' y='18.0' font-size='12' fill='rgb(41, 58, 70)'>« Interface »</text>
+    <text font-weight='bold' text-anchor='middle' x='56.0' y='35.0' font-size='13' font-style='normal' fill='rgb(41, 58, 70)'>Implementation</text>
+    <line y1='42.0' x1='0.0' y2='42.0' x2='112.0' stroke-width='1.0' stroke='rgb(81, 116, 139)' look='border'/>
+    <g transform='translate(0.0,42.0)' id='_zLVdwAPsEDimd_hRbi24EA'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>method1()</text>
+    </g>
+    <g transform='translate(0.0,62.0)' id='_0XThoAPsEDimd_hRbi24EA'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>method2()</text>
+    </g>
+    <g transform='translate(0.0,82.0)' id='_kdHq8gPuEDimd_hRbi24EA'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>method3()</text>
+    </g>
+  </g>
+  <g transform='translate(211.0,370.0)' id='_9iQqxgPrEDimd_hRbi24EA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='132.0px' y='0.0' stroke-width='1.0' fill='url(#f5a5aa80-0251-4379-aaae-78f7d469ba62)' stroke='rgb(187, 187, 187)' look='allInOne' height='80.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='66.0' y='19.0' font-size='13' font-style='normal' fill='rgb(3, 54, 86)'>RefinedAbstraction</text>
+    <line y1='26.0' x1='0.0' y2='26.0' x2='132.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+    <g transform='translate(0.0,26.0)' id='_DNfSwQPtEDimd_hRbi24EA'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>featureN()</text>
+    </g>
+  </g>
+  <g transform='translate(500.0,388.0)' id='_CkAtYQPsEDimd_hRbi24EA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='179.0px' y='0.0' stroke-width='1.0' fill='url(#8e949bbf-e749-4254-b8a2-e99dd2c9a799)' stroke='rgb(187, 187, 187)' look='allInOne' height='80.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='89.5' y='19.0' font-size='13' font-style='normal' fill='rgb(3, 54, 86)'>ConcreteImplementations2</text>
+    <line y1='26.0' x1='0.0' y2='26.0' x2='179.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(462.0,370.0)' id='_Dt01IAPsEDimd_hRbi24EA'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='182.0px' y='0.0' stroke-width='1.0' fill='url(#1daa5ef6-2c69-4754-875b-408879ac3bb9)' stroke='rgb(187, 187, 187)' look='allInOne' height='80.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='91.0' y='19.0' font-size='13' font-style='normal' fill='rgb(3, 54, 86)'>ConcreteImplementations</text>
+    <line y1='26.0' x1='0.0' y2='26.0' x2='182.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(354.0,100.0)' id='_bdX-MQPtEDimd_hRbi24EA'>
+    <polygon stroke-width='0.5' fill='rgb(255, 255, 255)' stroke='rgb(107, 107, 107)' look='allInOne' points='0.0,0.0 0.0,40.0 150.0,40.0 150.0,15.0 135.0,0.0'/>
+    <polygon stroke-width='1.0' fill='rgb(107, 107, 107)' look='border' stroke='rgb(107, 107, 107)' points='135.0,1.0 135.0,15.0 149.0,15.0'/>
+    <clipPath id='clip_bdX-MQPtEDimd_hRbi24EA'>
+      <rect x='5.0' width='125.0px' y='5.0' height='30.0px'/>
+    </clipPath>
+    <g transform='translate(0.0,0.0)'>
+      <text clip-path='url(#clip_bdX-MQPtEDimd_hRbi24EA)' x='5.0' y='18.0' font-size='13' fill='rgb(45, 45, 45)'>abstraction.feature1()</text>
+    </g>
+  </g>
+  <g transform='translate(369.0,193.0)' id='_B-4VIAPuEDimd_hRbi24EA'>
+    <polygon stroke-width='0.5' fill='url(#62445eab-a2a1-40c9-8fab-3619d7198a2b)' stroke='rgb(81, 116, 139)' look='allInOne' points='0.0,0.0 0.0,40.0 100.0,40.0 100.0,15.0 85.0,0.0'/>
+    <polygon stroke-width='1.0' fill='rgb(81, 116, 139)' look='border' stroke='rgb(81, 116, 139)' points='85.0,1.0 85.0,15.0 99.0,15.0'/>
+    <clipPath id='clip_B-4VIAPuEDimd_hRbi24EA'>
+      <rect x='5.0' width='75.0px' y='5.0' height='30.0px'/>
+    </clipPath>
+    <g transform='translate(0.0,0.0)'>
+      <text clip-path='url(#clip_B-4VIAPuEDimd_hRbi24EA)' x='5.0' y='18.0' font-size='13' fill='rgb(41, 58, 70)'>Bridge</text>
+    </g>
+  </g>
+  <g transform='translate(52.0,250.0)' id='_ZH-XoQPuEDimd_hRbi24EA'>
+    <polygon stroke-width='0.5' fill='rgb(255, 255, 255)' stroke='rgb(107, 107, 107)' look='allInOne' points='0.0,0.0 0.0,30.0 130.0,30.0 130.0,15.0 115.0,0.0'/>
+    <polygon stroke-width='1.0' fill='rgb(107, 107, 107)' look='border' stroke='rgb(107, 107, 107)' points='115.0,1.0 115.0,15.0 129.0,15.0'/>
+    <clipPath id='clip_ZH-XoQPuEDimd_hRbi24EA'>
+      <rect x='5.0' width='105.0px' y='5.0' height='20.0px'/>
+    </clipPath>
+    <g transform='translate(0.0,0.0)'>
+      <text clip-path='url(#clip_ZH-XoQPuEDimd_hRbi24EA)' x='5.0' y='18.0' font-size='13' fill='rgb(45, 45, 45)'>imp.method1()</text>
+    </g>
+  </g>
+  <g transform='translate(52.0,290.0)' id='_gKdi8APuEDimd_hRbi24EA'>
+    <polygon stroke-width='0.5' fill='rgb(255, 255, 255)' stroke='rgb(107, 107, 107)' look='allInOne' points='0.0,0.0 0.0,50.0 130.0,50.0 130.0,15.0 115.0,0.0'/>
+    <polygon stroke-width='1.0' fill='rgb(107, 107, 107)' look='border' stroke='rgb(107, 107, 107)' points='115.0,1.0 115.0,15.0 129.0,15.0'/>
+    <clipPath id='clip_gKdi8APuEDimd_hRbi24EA'>
+      <rect x='5.0' width='105.0px' y='5.0' height='40.0px'/>
+    </clipPath>
+    <g transform='translate(0.0,0.0)'>
+      <text clip-path='url(#clip_gKdi8APuEDimd_hRbi24EA)' x='5.0' y='18.0' font-size='13' fill='rgb(45, 45, 45)'>imp.method2()</text>
+      <text clip-path='url(#clip_gKdi8APuEDimd_hRbi24EA)' x='5.0' y='31.0' font-size='13' fill='rgb(45, 45, 45)'>imp.method3()</text>
+    </g>
+  </g>
+  <g transform='translate(52.0,403.0)' id='_yZCzQAPuEDimd_hRbi24EA'>
+    <polygon stroke-width='0.5' fill='rgb(255, 255, 255)' stroke='rgb(107, 107, 107)' look='allInOne' points='0.0,0.0 0.0,50.0 130.0,50.0 130.0,15.0 115.0,0.0'/>
+    <polygon stroke-width='1.0' fill='rgb(107, 107, 107)' look='border' stroke='rgb(107, 107, 107)' points='115.0,1.0 115.0,15.0 129.0,15.0'/>
+    <clipPath id='clip_yZCzQAPuEDimd_hRbi24EA'>
+      <rect x='5.0' width='105.0px' y='5.0' height='40.0px'/>
+    </clipPath>
+    <g transform='translate(0.0,0.0)'>
+      <text clip-path='url(#clip_yZCzQAPuEDimd_hRbi24EA)' x='5.0' y='18.0' font-size='13' fill='rgb(45, 45, 45)'>imp.methodN()</text>
+      <text clip-path='url(#clip_yZCzQAPuEDimd_hRbi24EA)' x='5.0' y='31.0' font-size='13' fill='rgb(45, 45, 45)'>imp.methodM()</text>
+    </g>
+  </g>
+  <g transform='translate(290.0,338.0)' id='_EA3lkQPvEDimd_hRbi24EA'>
+    <polygon stroke-width='0.5' fill='rgb(255, 255, 255)' stroke='rgb(107, 107, 107)' look='allInOne' points='0.0,0.0 0.0,30.0 93.0,30.0 93.0,15.0 78.0,0.0'/>
+    <polygon stroke-width='1.0' fill='rgb(107, 107, 107)' look='border' stroke='rgb(107, 107, 107)' points='78.0,1.0 78.0,15.0 92.0,15.0'/>
+    <clipPath id='clip_EA3lkQPvEDimd_hRbi24EA'>
+      <rect x='5.0' width='68.0px' y='5.0' height='20.0px'/>
+    </clipPath>
+    <g transform='translate(0.0,0.0)'>
+      <text clip-path='url(#clip_EA3lkQPvEDimd_hRbi24EA)' x='5.0' y='18.0' font-size='13' fill='rgb(45, 45, 45)'>(optional)</text>
+    </g>
+  </g>
+  <text text-anchor='middle' x='392.0' y='276.0' fill='rgb(0, 0, 0)'>abstraction</text>
+  <text text-anchor='middle' x='445.0' y='246.0' fill='rgb(0, 0, 0)'>implementation</text>
+  <text text-anchor='middle' x='369.0' y='246.0' fill='rgb(0, 0, 0)'>*</text>
+  <text text-anchor='middle' x='477.0' y='276.0' fill='rgb(0, 0, 0)'>1</text>
+  <g transform='translate(267.0,180.0)' id='_heXFsAPsEDimd_hRbi24EA'>
+    <g transform='translate(0.0,0.0)'/>
+  </g>
+  <text text-anchor='middle' x='276.0' y='176.0' fill='rgb(0, 0, 0)'>« use »</text>
+  <g id='_gOyUMgPsEDimd_hRbi24EA'>
+    <line y1='256.0' x1='349.0' y2='256.0' x2='423.0' id='_gO5o8gPsEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(349.0,256.0) rotate(-90.0)' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)' points='-4.0,8.0 0.0,0.0 4.0,8.0 0.0,16.0'/>
+  </g>
+  <g id='_gOyUMgPsEDimd_hRbi24EA'>
+    <line y1='256.0' x1='423.0' y2='256.0' x2='423.0' id='_gO6QAQPsEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_gOyUMgPsEDimd_hRbi24EA'>
+    <line y1='256.0' x1='423.0' y2='256.0' x2='497.0' id='_gO6QAgPsEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_hd7n4QPsEDimd_hRbi24EA'>
+    <polyline transform='translate(277.0,210.0) rotate(-180.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+    <line y1='160.0' x1='277.0' y2='210.0' x2='277.0' stroke-dasharray='7, 3' id='_hePJ4APsEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_7dDcUAPsEDimd_hRbi24EA'>
+    <line y1='370.0' x1='277.0' y2='336.0' x2='277.0' id='_7dEqcgPsEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_7dDcUAPsEDimd_hRbi24EA'>
+    <line y1='336.0' x1='277.0' y2='336.0' x2='277.0' id='_7dFRgQPsEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_7dDcUAPsEDimd_hRbi24EA'>
+    <line y1='336.0' x1='277.0' y2='302.0' x2='277.0' id='_7dFRggPsEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(277.0,302.0) rotate(-0.0)' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)' points='-6.0,10.0 0.0,0.0 6.0,10.0'/>
+  </g>
+  <g id='_8UGZEQPsEDimd_hRbi24EA'>
+    <line y1='370.0' x1='553.0' y2='343.0' x2='553.0' stroke-dasharray='7, 3' id='_8UHAIAPsEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_8UGZEQPsEDimd_hRbi24EA'>
+    <line y1='343.0' x1='553.0' y2='343.0' x2='553.0' stroke-dasharray='7, 3' id='_8UHAIwPsEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_8UGZEQPsEDimd_hRbi24EA'>
+    <line y1='343.0' x1='553.0' y2='316.0' x2='553.0' stroke-dasharray='7, 3' id='_8UHAJAPsEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(553.0,316.0) rotate(-0.0)' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <line y1='120.0' x1='307.0' y2='120.0' x2='354.0' stroke-dasharray='1, 2' id='_fIMDEQPtEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  <line y1='260.0' x1='204.0' y2='261.0' x2='182.0' stroke-dasharray='1, 2' id='_dkUAFgPuEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  <line y1='417.0' x1='211.0' y2='420.0' x2='182.0' stroke-dasharray='1, 2' id='_1AHjNAPuEDimd_hRbi24EA' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+</svg>

@@ -12,7 +12,6 @@ public class AbstractFactoryA {
        shape2.draw();
        Shape shape3 = abstractFactoryRounded.createShape("square");
        shape3.draw();
-
     }
 }
 
@@ -78,3 +77,4 @@ class FactoryProducer {
         }
     }
 }
+

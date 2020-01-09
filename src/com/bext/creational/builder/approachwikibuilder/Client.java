@@ -4,14 +4,15 @@ public class Client {
 
     public static void main(String... args) {
         FerrariBuilder builder = new FerrariBuilder();
-        SportCarBuildDirector director = new SportCarBuildDirector( builder);
+        SportCarBuildDirector director = new SportCarBuildDirector(builder);
 
         director.construct();
         Car miRaceCar = builder.getResult();
-        System.out.println( miRaceCar.toString());
+        System.out.println(miRaceCar.toString());
     }
+}
 
-    static public class Car {
+    class Car {
         private String Make;
         private String Model;
         private int NumDoors;
@@ -44,7 +45,7 @@ public class Client {
         }
     }
 
-    public interface ICarBuilder {
+    interface ICarBuilder {
         public int getNumDoors();
         public void setNumDoors(int numDoors);
         public String getColor();
@@ -52,7 +53,7 @@ public class Client {
         Car getResult();
     }
 
-    static class FerrariBuilder implements ICarBuilder {
+    class FerrariBuilder implements ICarBuilder {
         private int numDoors;
         private String color;
 
@@ -65,7 +66,7 @@ public class Client {
         }
     }
 
-    static class SportCarBuildDirector {
+    class SportCarBuildDirector {
         private ICarBuilder iCarBuilder;
 
         public SportCarBuildDirector(ICarBuilder iCarBuilder) {
@@ -76,4 +77,4 @@ public class Client {
             iCarBuilder.setNumDoors(2);
         }
     }
-}
+

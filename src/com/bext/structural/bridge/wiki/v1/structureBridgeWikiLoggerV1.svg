@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='-7 139 805 281' xmlns:xlink='http://www.w3.org/1999/xlink' width='805.0px' font-size='13' font-family='Arial, LiberationSans' version='1.1' height='281.0px'>
+  <defs>
+<style type='text/css'><![CDATA[svg text {text-rendering: geometricPrecision;}]]></style>    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='dde25b97-7a51-433a-a1e7-90c21af1af36' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='b5df1e1e-e1d6-4040-9147-dd3f81adf887' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='75b5932c-3148-4d82-894f-83966d254429' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='cffc14f2-772e-47ab-89eb-bcc28c698dfe' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='960d872c-11a3-496f-ae76-d3aa72d0ff76' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+    <linearGradient y1='0.0%' x1='0.0%' y2='100.0%' x2='0.0%' id='1c0dd9da-f88b-4b1f-a1ae-c6b392cbf1ce' spreadMethod='pad'>
+      <stop stop-opacity='1' offset='0' stop-color='rgb(255, 255, 255)'/>
+      <stop stop-opacity='1' offset='100' stop-color='rgb(238, 238, 238)'/>
+    </linearGradient>
+  </defs>
+  <desc>ClassDiagram</desc>
+  <g transform='translate(70.0,188.0)' id='_Od6m4QQpEDihKfl71G9RQw'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='136.0px' y='0.0' stroke-width='1.0' fill='url(#dde25b97-7a51-433a-a1e7-90c21af1af36)' stroke='rgb(187, 187, 187)' look='allInOne' height='80.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='68.0' y='19.0' font-size='13' font-style='normal' fill='rgb(3, 54, 86)'>BridgeDemoLogger</text>
+    <line y1='26.0' x1='0.0' y2='26.0' x2='136.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(295.0,171.0)' id='_Od6m4wQpEDihKfl71G9RQw'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='153.0px' y='0.0' stroke-width='1.0' fill='url(#b5df1e1e-e1d6-4040-9147-dd3f81adf887)' stroke='rgb(187, 187, 187)' look='allInOne' height='113.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='76.5' y='19.0' font-size='13' font-style='normal' fill='rgb(3, 54, 86)'>SimpleAccount</text>
+    <line y1='26.0' x1='0.0' y2='26.0' x2='153.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+    <g transform='translate(0.0,26.0)' id='_p-UuQQQxEDihKfl71G9RQw'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8gdLP3+/zt4ripvqCtuqCtvqDF0qzJzqzp5rzp4rjp5rkN/skOAskR/sk2Ftk2GtlWMulaMulaNulaMuV6Svl6RvV6SvV+SvWWWwGWXwGqawvr9/+35//b8//L7/+T3/+H3/+T4/+j5/+z6/+36/+P4/+f5//L8//b9/8lHPvV8fP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALr1MDoAAAAudFJOU////////////////////////////////////////////////////////////wCCj3NVAAAAjklEQVR42lyPsQ6CYAyEv/4WcGFwM8bZwej7vwiR3U0ddDIG/rYOYBBuuXx3Q69yZq60YJTnP25Q/DbxFpS86wkhBIoMitWPeuhfVQ8Je/e4V155iIFihVNGLs2tcFBsZXcAPuswULzfdwnwpNlAiWsKkA6ABuUwnGiOy+mtiIi0Os28jL/8FMyD0+jfAQAK/zLXcxrOkQAAAABJRU5ErkJggg==' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' fill='rgb(0, 0, 0)'>logger: Logger</text>
+    </g>
+    <line y1='47.0' x1='0.0' y2='47.0' x2='153.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+    <g transform='translate(0.0,47.0)' id='_v_tzgQQyEDihKfl71G9RQw'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>setLogger(logger)()</text>
+    </g>
+    <g transform='translate(0.0,67.0)' id='_zH4eVAQyEDihKfl71G9RQw'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>operationA()</text>
+    </g>
+    <g transform='translate(0.0,87.0)' id='_1uWKRAQyEDihKfl71G9RQw'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>operationB()</text>
+    </g>
+  </g>
+  <g transform='translate(563.0,169.0)' id='_Od6m5AQpEDihKfl71G9RQw'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='120.0px' y='0.0' stroke-width='1.0' fill='url(#75b5932c-3148-4d82-894f-83966d254429)' stroke='rgb(187, 187, 187)' look='allInOne' height='80.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='60.0' y='18.0' font-size='12' fill='rgb(105, 105, 105)'>« Interface »</text>
+    <text font-weight='bold' text-anchor='middle' x='60.0' y='35.0' font-size='13' font-style='normal' fill='rgb(3, 54, 86)'>Logger</text>
+    <line y1='42.0' x1='0.0' y2='42.0' x2='120.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+    <g transform='translate(0.0,42.0)' id='_BNVykQQyEDihKfl71G9RQw'>
+      <image x='4.0' width='16.0' y='5.0' xlink:href='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAG8dAAB6pAAA9NYAAIZwAAB37gAA9bAAADqjAAAVsi1zQqwAAAMAUExURQAAAP///8HBw6Ky1rfD3Ymh0au73Ku62Yag0aq72bPB27fD2b7J3YWh0Ieiz4ahzomk0Z2z2Ki72bPD3L7J23eXyIajz7TE27PD2rTD2maPxbvK38PP32OMwGSMvYamz7PE2LXE10V/vkh/v0d/vEiAvUh+vFGEu1OEvGaEpqC40kaBvUWAukd/ukmBvGGQvmSGqWOEpZ+61QA9cwA8cgA7cQI7cAM8czZ0rT16sEF9s0J9tUSBuE6GuVGFt2OGpmSHp2OEo2WGpWSFpAA8cAA9cAA7bwA8bgA9bgA7bQI8bgI8bD18slCGtWKFo2OGpGSHpQA9bAA7aDR3rAWBSUOcbHGxdf///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADH1d5AAAABYdFJOU////////////////////////////////////////////////////////////////////////////////////////////////////////////////////wB4m8IIAAAA2UlEQVR42lSPzUoCURhAz/0cUrhjTYzuIu0PicZFy57ABxjQdxR8iQQJYmrTDYJZNEZQC2fGHPIndVyUkGdz4OyO6rCL/Mqkj//Ce8iR8Uge/sJzNUqG+etocH4PqA6TQEpfUzWvlBoOFDyKrsnOLnQi1weAEKRG37iTWWs8iJ9AqN9Ns/0sqL3oVf8YCl7UGO05lbKTDRer0FxZXNL8CE/tNMaHHgLx9+zkU9++gUDXgqK45Z8YH8DHAh3Z9tIGAWFtATUID2GNykFtb7vgq7y3vYV2G3JgMwDzTEnCPC8r9AAAAABJRU5ErkJggg==' height='16.0'/>
+      <text text-anchor='start' x='22.0' y='16.0' font-size='13' font-style='normal' fill='rgb(0, 0, 0)'>log(message)</text>
+    </g>
+  </g>
+  <g transform='translate(527.0,296.0)' id='_blcd1AQpEDihKfl71G9RQw'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='60.0px' y='0.0' stroke-width='1.0' fill='url(#cffc14f2-772e-47ab-89eb-bcc28c698dfe)' stroke='rgb(187, 187, 187)' look='allInOne' height='80.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='30.0' y='19.0' font-size='13' font-style='normal' fill='rgb(3, 54, 86)'>LogInfo</text>
+    <line y1='26.0' x1='0.0' y2='26.0' x2='60.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(605.0,296.0)' id='_ctuUgQQpEDihKfl71G9RQw'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='88.0px' y='0.0' stroke-width='1.0' fill='url(#960d872c-11a3-496f-ae76-d3aa72d0ff76)' stroke='rgb(187, 187, 187)' look='allInOne' height='80.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='44.0' y='19.0' font-size='13' font-style='normal' fill='rgb(3, 54, 86)'>LogWarning</text>
+    <line y1='26.0' x1='0.0' y2='26.0' x2='88.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(708.0,296.0)' id='_bEIm4QQxEDihKfl71G9RQw'>
+    <rect rx='3.0' ry='3.0' x='0.0' width='60.0px' y='0.0' stroke-width='1.0' fill='url(#1c0dd9da-f88b-4b1f-a1ae-c6b392cbf1ce)' stroke='rgb(187, 187, 187)' look='allInOne' height='80.0px'/>
+    <text font-weight='bold' text-anchor='middle' x='30.0' y='19.0' font-size='13' font-style='normal' fill='rgb(3, 54, 86)'>Error</text>
+    <line y1='26.0' x1='0.0' y2='26.0' x2='60.0' stroke-width='1.0' stroke='rgb(187, 187, 187)' look='border'/>
+  </g>
+  <g transform='translate(300.0,300.0)' id='_6S4scQQyEDihKfl71G9RQw'>
+    <polygon stroke-width='0.5' fill='rgb(255, 255, 255)' stroke='rgb(107, 107, 107)' look='allInOne' points='0.0,0.0 0.0,90.0 150.0,90.0 150.0,15.0 135.0,0.0'/>
+    <polygon stroke-width='1.0' fill='rgb(107, 107, 107)' look='border' stroke='rgb(107, 107, 107)' points='135.0,1.0 135.0,15.0 149.0,15.0'/>
+    <clipPath id='clip_6S4scQQyEDihKfl71G9RQw'>
+      <rect x='5.0' width='125.0px' y='5.0' height='80.0px'/>
+    </clipPath>
+    <g transform='translate(0.0,0.0)'>
+      <text clip-path='url(#clip_6S4scQQyEDihKfl71G9RQw)' x='5.0' y='18.0' font-size='13' fill='rgb(45, 45, 45)'>operationA(){</text>
+      <text clip-path='url(#clip_6S4scQQyEDihKfl71G9RQw)' x='5.0' y='31.0' font-size='13' fill='rgb(45, 45, 45)'>  doX();</text>
+      <text clip-path='url(#clip_6S4scQQyEDihKfl71G9RQw)' x='5.0' y='44.0' font-size='13' fill='rgb(45, 45, 45)'>  log(message);</text>
+      <text clip-path='url(#clip_6S4scQQyEDihKfl71G9RQw)' x='5.0' y='57.0' font-size='13' fill='rgb(45, 45, 45)'>}</text>
+    </g>
+  </g>
+  <g transform='translate(23.0,300.0)' id='_N7SPYAQzEDihKfl71G9RQw'>
+    <polygon stroke-width='0.5' fill='rgb(255, 255, 255)' stroke='rgb(107, 107, 107)' look='allInOne' points='0.0,0.0 0.0,90.0 230.0,90.0 230.0,15.0 215.0,0.0'/>
+    <polygon stroke-width='1.0' fill='rgb(107, 107, 107)' look='border' stroke='rgb(107, 107, 107)' points='215.0,1.0 215.0,15.0 229.0,15.0'/>
+    <clipPath id='clip_N7SPYAQzEDihKfl71G9RQw'>
+      <rect x='5.0' width='205.0px' y='5.0' height='80.0px'/>
+    </clipPath>
+    <g transform='translate(0.0,0.0)'>
+      <text clip-path='url(#clip_N7SPYAQzEDihKfl71G9RQw)' x='5.0' y='18.0' font-size='13' fill='rgb(45, 45, 45)'>account = new SimpleAccount();</text>
+      <text clip-path='url(#clip_N7SPYAQzEDihKfl71G9RQw)' x='5.0' y='31.0' font-size='13' fill='rgb(45, 45, 45)'>Logger logInfo = new LogInfo();</text>
+      <text clip-path='url(#clip_N7SPYAQzEDihKfl71G9RQw)' x='5.0' y='44.0' font-size='13' fill='rgb(45, 45, 45)'>account.setLogger(logInfo);</text>
+      <text clip-path='url(#clip_N7SPYAQzEDihKfl71G9RQw)' x='5.0' y='57.0' font-size='13' fill='rgb(45, 45, 45)'>account.operationA();</text>
+    </g>
+  </g>
+  <g transform='translate(241.0,223.0)' id='_Od7N8wQpEDihKfl71G9RQw'>
+    <g transform='translate(0.0,0.0)'/>
+  </g>
+  <text text-anchor='middle' x='497.0' y='230.0' fill='rgb(0, 0, 0)'>simpleAccount</text>
+  <text text-anchor='middle' x='535.0' y='200.0' fill='rgb(0, 0, 0)'>logger</text>
+  <text text-anchor='middle' x='468.0' y='200.0' fill='rgb(0, 0, 0)'>1..*</text>
+  <text text-anchor='middle' x='543.0' y='230.0' fill='rgb(0, 0, 0)'>1</text>
+  <text text-anchor='middle' x='250.0' y='219.0' fill='rgb(0, 0, 0)'>« use »</text>
+  <g id='_Od6m4AQpEDihKfl71G9RQw'>
+    <polyline transform='translate(295.0,228.0) rotate(90.0)' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)' points='-5.0,10.0 0.0,0.0 5.0,10.0'/>
+    <line y1='228.0' x1='206.0' y2='228.0' x2='295.0' stroke-dasharray='7, 3' id='_Od7N8QQpEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_f-2uFAQpEDihKfl71G9RQw'>
+    <line y1='210.0' x1='448.0' y2='210.0' x2='505.0' id='_f_C7UgQpEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(448.0,210.0) rotate(-90.0)' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)' points='-4.0,8.0 0.0,0.0 4.0,8.0 0.0,16.0'/>
+  </g>
+  <g id='_f-2uFAQpEDihKfl71G9RQw'>
+    <line y1='210.0' x1='505.0' y2='210.0' x2='506.0' id='_f_C7VQQpEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_f-2uFAQpEDihKfl71G9RQw'>
+    <line y1='210.0' x1='506.0' y2='210.0' x2='563.0' id='_f_C7VgQpEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_gvReYAQpEDihKfl71G9RQw'>
+    <line y1='296.0' x1='575.0' y2='272.0' x2='575.0' stroke-dasharray='7, 3' id='_gvW98AQpEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_gvReYAQpEDihKfl71G9RQw'>
+    <line y1='272.0' x1='575.0' y2='273.0' x2='575.0' stroke-dasharray='7, 3' id='_gvYMEAQpEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_gvReYAQpEDihKfl71G9RQw'>
+    <line y1='273.0' x1='575.0' y2='249.0' x2='575.0' stroke-dasharray='7, 3' id='_gvYMEQQpEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(575.0,249.0) rotate(-0.0)' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <g id='_hPWsoAQpEDihKfl71G9RQw'>
+    <line y1='296.0' x1='644.0' y2='272.0' x2='644.0' stroke-dasharray='7, 3' id='_hPX6wwQpEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_hPWsoAQpEDihKfl71G9RQw'>
+    <line y1='272.0' x1='644.0' y2='273.0' x2='644.0' stroke-dasharray='7, 3' id='_hPYh0AQpEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_hPWsoAQpEDihKfl71G9RQw'>
+    <line y1='273.0' x1='644.0' y2='249.0' x2='644.0' stroke-dasharray='7, 3' id='_hPYh0QQpEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(644.0,249.0) rotate(-0.0)' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <g id='_exJEIQQxEDihKfl71G9RQw'>
+    <line y1='296.0' x1='733.0' y2='276.0' x2='733.0' stroke-dasharray='7, 3' id='_exKSQQQxEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_exJEIQQxEDihKfl71G9RQw'>
+    <line y1='276.0' x1='733.0' y2='209.0' x2='733.0' stroke-dasharray='7, 3' id='_exKSRAQxEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  </g>
+  <g id='_exJEIQQxEDihKfl71G9RQw'>
+    <line y1='209.0' x1='733.0' y2='209.0' x2='683.0' stroke-dasharray='7, 3' id='_exKSRQQxEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+    <polygon transform='translate(683.0,209.0) rotate(-90.0)' stroke-width='1.0' fill='rgb(255, 255, 255)' stroke='rgb(0, 0, 0)' points='-4.0,12.0 0.0,0.0 4.0,12.0'/>
+  </g>
+  <line y1='284.0' x1='373.0' y2='300.0' x2='373.0' stroke-dasharray='1, 2' id='_EChahgQzEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+  <line y1='268.0' x1='138.0' y2='300.0' x2='138.0' stroke-dasharray='1, 2' id='_mOJ9ZAQzEDihKfl71G9RQw' stroke-width='1.0' fill='none' stroke='rgb(0, 0, 0)'/>
+</svg>

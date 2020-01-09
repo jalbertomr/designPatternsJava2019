@@ -31,7 +31,7 @@ Shape <|-- RoundRectangle
 Shape <|-- RoundSquare
 }
 
-class AbstractFactory {
+abstract class AbstractFactory {
 + createShape(): Shape
 }
 class ShapeFactory{
